@@ -57,5 +57,5 @@
 - **Internet** (для первой сборки, чтобы скачать Gradle и SDK)
 
 ```bash
-git clone https://github.com/ВАШ_НИК/MorskoyBoy.git
+git clone https://github.com/tegus75/MorskoyBoy.git
 cd MorskoyBoy
